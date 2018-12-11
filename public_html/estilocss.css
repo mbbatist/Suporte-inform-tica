@@ -1,0 +1,64 @@
+*{margin:0px; padding:5px; border:0px;}
+#site{
+   
+    width:825px;
+    margin-bottom:5px;
+    margin: 0 auto;
+    border:2px solid black;
+    }
+#menu{
+    height:40px;
+    width:815px;
+    background-color: #66CD00;
+     }
+#imgdosuporte{
+    margin-top: 5px;
+    height: 310px;
+    width:810px;
+    border:2px solid black;
+    margin-bottom: 5px;        
+              }
+#faixapreta{
+    height:40px;
+    width:815px;
+    background-color: black;   
+           }
+#conteudo{
+    margin-top: 5px;
+    width:810px;
+    border:2px solid black;
+    margin-bottom: 5px;  
+         }
+ .imgdoconteudo{
+    padding:5px 70px 0px 70px;
+         }
+.textconteudo{
+    font-family:"Berlin Sans FB", cursive;
+    font-size: 18px; 
+    color:black;
+            }
+#rodape{
+    height:40px;
+    width:815px;
+    background-color: black;
+    float:end;
+    font-family:"Berlin Sans FB", cursive;
+    font-size: 18px;
+    color:white;
+       }
+       .itensmenu{
+       color:black;    
+       }
+       .itensmenu:hover{
+           color:white;         
+       }
+       
+a{
+font-family:"Berlin Sans FB", cursive;
+font-size: 18px;
+ text-decoration: none;
+}
+
+
+    
+
